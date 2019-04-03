@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "city": "Amman",
+    "fromDate": "2018-04-03",
+    "toDate":"2019-04-03",
+    "hotel": "Hyatt Regency",
+    "numberOfAdults": 2,
+    "hotelRate": 5,
+    "hotelFare": 2.15,
+    "roomAmenities":"Room 1,Room 2,Room 3,Room 4"
+  },
+  {
+    "id": 2,
+    "city": "Amman",
+    "fromDate": "2018-04-03",
+    "toDate":"2019-04-03",
+    "hotel": "Al Jamal Hotel",
+    "numberOfAdults": 2,
+    "hotelRate": 5,
+    "hotelFare": 2.15,
+    "roomAmenities":"Room 1,Room 2,Room 3,Room 4"
+  }
+]

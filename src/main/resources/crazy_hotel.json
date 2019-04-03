@@ -1,0 +1,35 @@
+[
+  {
+    "id": 3,
+    "city": "Amman",
+    "fromDate": "2018-04-03",
+    "toDate": "2019-04-03",
+    "hotelName": "Toledo Hotel",
+    "rate": "***",
+    "price": 260,
+    "discount": 25,
+    "amenities": [
+      "Room1",
+      "Room2",
+      "Room3",
+      "Room4"
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Amman",
+    "fromDate": "2018-04-03",
+    "toDate": "2019-04-03",
+    "hotelName": "Mariam Hotel",
+    "rate": "**",
+    "price": 260,
+    "discount": 25,
+    "amenities": [
+      "Room1",
+      "Room2",
+      "Room3",
+      "Room4"
+    ]
+  }
+]
+]
